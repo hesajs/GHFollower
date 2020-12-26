@@ -32,6 +32,7 @@
 		A0961C0B25014D8200DB2052 /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0961C0A25014D8200DB2052 /* FollowerListVC.swift */; };
 		A0999FFB250B6820005D353A /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0999FFA250B6820005D353A /* UIHelper.swift */; };
 		A0BC07BB2538A05600A184B1 /* GFEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BC07BA2538A05600A184B1 /* GFEmptyStateView.swift */; };
+		A0BF9640259722C000B4DD96 /* GFItemInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BF963F259722C000B4DD96 /* GFItemInfoVC.swift */; };
 		A0D7C567250664A200600123 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D7C566250664A200600123 /* NetworkManager.swift */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 		A0961C0A25014D8200DB2052 /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 		A0999FFA250B6820005D353A /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		A0BC07BA2538A05600A184B1 /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
+		A0BF963F259722C000B4DD96 /* GFItemInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoVC.swift; sourceTree = "<group>"; };
 		A0D7C566250664A200600123 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -194,6 +196,7 @@
 			children = (
 				A0327C7325053D7700EE7612 /* GFAlertVC.swift */,
 				A08FEC04259098FF00215973 /* GFUserInfoHeaderVC.swift */,
+				A0BF963F259722C000B4DD96 /* GFItemInfoVC.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				A0961C0725012EE500DB2052 /* GFButton.swift in Sources */,
 				A0327C76250544C100EE7612 /* UIViewController+Ext.swift in Sources */,
 				A0999FFB250B6820005D353A /* UIHelper.swift in Sources */,
+				A0BF9640259722C000B4DD96 /* GFItemInfoVC.swift in Sources */,
 				A08FEC0B2590A20300215973 /* Constants.swift in Sources */,
 				A07113442509105D00AFF9ED /* GFAvatarImageView.swift in Sources */,
 				A0961C03250129F300DB2052 /* SearchVC.swift in Sources */,
