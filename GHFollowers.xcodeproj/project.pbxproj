@@ -151,13 +151,13 @@
 			path = Support;
 			sourceTree = "<group>";
 		};
-		A088F8CA25065FFB001A061C /* Modal */ = {
+		A088F8CA25065FFB001A061C /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				A088F8CB25066027001A061C /* Follower.swift */,
 				A088F8CE250660D9001A061C /* User.swift */,
 			);
-			path = Modal;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		A0961BE22501155B00DB2052 = {
@@ -181,7 +181,7 @@
 			children = (
 				A0543865250796CC00A77ADF /* Utilities */,
 				A0D7C5652506649100600123 /* Manager */,
-				A088F8CA25065FFB001A061C /* Modal */,
+				A088F8CA25065FFB001A061C /* Model */,
 				A088F8C82506317D001A061C /* Extensions */,
 				A088F8C72506316F001A061C /* Custom Views */,
 				A088F8C625063161001A061C /* Screens */,
